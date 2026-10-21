@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Large model archives & binaries (> 100MB exceeds GitHub push limit)
+*.zip
+*.bin
+*.model
+public/assets/aistudio/*.zip
+__pycache__/
+

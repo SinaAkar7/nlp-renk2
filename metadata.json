@@ -1,0 +1,6 @@
+{
+  "name": "Türkçe Doğal Dil Modeli ile Renk Olmayan Kelime Tespiti",
+  "description": "Word2Vec Türkçe doğal dil modeli ve vektör benzerliği ile girilen 4 kelime arasından renk olmayanı tespit eden statik uygulama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
